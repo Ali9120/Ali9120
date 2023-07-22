@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Ali9120
-- 👀 I’m interested in electronic and microcontroler programing
-- 🌱 I’m currently learning python and machin learning
-- 💞️ I’m looking to collaborate on digital electronic project
 - 📫 How to reach me : Alira9120@gmail.com 
 
 <!---
